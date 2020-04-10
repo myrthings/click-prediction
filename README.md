@@ -17,13 +17,13 @@ The process we followed is more iterative and circular than linear. However, we'
 - **Conclusions:** How much time we spent on each task.
 
 ## Development ⚙️
-The whole analysis is displayed in a Jupyter Notebook. We also include a Python file with some auxiliar functions. At the begining of the notebook you can find all the libraries needed. On the model part, there's some other libraries for the algorithms.
+The whole analysis is displayed in a Jupyter Notebook. We also include a Python file with some auxiliar functions. At the begining of the notebook you can find all the libraries needed. On the model part, there're some other libraries for the algorithms.
 
 ## How to use it 👩‍💻
 *You can't use it as it is* uploaded because the data is propietary and not available. BUT, you can download the notebook and reuse the functions for your own data. The more useful and original parts are:
 - **Visualizations:** We did a prety good job thinking how to display the time, maybe you're interested in that. (You can improve their appearance for sure :blush:)
 - **Undersample:** We created our own function to undersample the data an divide it in train and test with the less possible lose of data points.
-- **Economic model:** This part is completely ours because we didn't find any information on the internet. The model is just an application of probability distributions over a lift measure given ad prices (fixed in our example). It's quite useful if you want need to explain your results to a non-technical client.
+- **Economic model:** This part is completely ours because we didn't find any information on the internet. The model is just an application of probability distributions over a lift measure given ad prices (fixed in our example). It's quite useful if you want or need to explain your results to a non-technical client.
 
 ## Authors
 - [Manuel Alvarez](https://www.linkedin.com/in/manuelalvrod/)
